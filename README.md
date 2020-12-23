@@ -4,7 +4,7 @@
 
 ### C++ Notebooks  
 
-**Supports:**  
+**Kernels Supported:**  
 - Python 3  
 - C++ 11  
 - C++ 14  
