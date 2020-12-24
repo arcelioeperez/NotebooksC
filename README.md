@@ -19,4 +19,4 @@ Click on the **Launch - Binder** button and it should redirect you to a Jupyter 
 ### Technologies used:  
 - Jupyter Notebook [Jupyter.org](https://jupyter.org/)   
 - Xeus-Cling  [Repository](https://github.com/jupyter-xeus/xeus-cling)  
-- Binder - [mybinder.org](https://mybinder.org/)  
+- Binder  [mybinder.org](https://mybinder.org/)  
